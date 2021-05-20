@@ -1,4 +1,10 @@
 ### Hi there 👋
+🛠  Tech Stack
+Programming Languages :
+HTML5 CSS3 JavaScript PHP C#
+
+Frameworks and libraries:
+React Tailwind Bootstrap jQuery NodeJS ExpressJS MongoDB MySQL Unity
 
 <!--
 **damiadesoye/damiadesoye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
